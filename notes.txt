@@ -1,0 +1,2 @@
+This is my first file write in Python.
+Learning file handeling today.
